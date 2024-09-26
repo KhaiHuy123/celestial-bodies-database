@@ -1,4 +1,4 @@
 # celestial-bodies
 [certificate] - [freeCodeCamp] - [Relational Database]
 
-![image](https://github.com/user-attachments/assets/cecb1d57-d9ac-4a8e-98b6-2ff29e25be77)
+![image](https://github.com/user-attachments/assets/df725658-12fa-4ab5-abf2-82b2ada308a1)
