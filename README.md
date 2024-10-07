@@ -3,6 +3,10 @@
 
 ![image](https://github.com/user-attachments/assets/bfbe5dc7-5566-46c5-8a7b-a0151c449446)
 
+# Submission
+![image](https://github.com/user-attachments/assets/6f9936c1-0957-48b8-a498-396de187d04b)
+
+
 # Instructions
 - For this project, you need to log in to PostgreSQL with psql to create your database. Do that by entering `psql --username=freecodecamp --dbname=postgres` in the terminal. Make all the tests below pass to complete the project. Be sure to get creative, and have fun!
 
